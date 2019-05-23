@@ -1,0 +1,10 @@
+Heading 1
+Heading 2
+
+1.0	point one
+2.0	point two
+
+Normal text with italics and bold .
+
+ 
+Figure 1 - Caption for the image
