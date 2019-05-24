@@ -2,6 +2,8 @@ name: preservation-notebook
 channels:
     - conda-forge
 dependencies:
+    - python
+    - pip
     - pip:
       - pyexifinfo
       - bagit
